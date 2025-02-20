@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1{
+    padding: 10px;
+}
+form{
+    margin-left: 20px;
+    line-height: 40px;
+}
+input{
+    height: 30px;
+    width: 300px;
+    border-radius: 5px;
+    border: 1px solid;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-content: space-between;
+}
+.header button{
+    border: none;
+    background-color: white;
+    margin-right: 30px;
+    font-size: xx-large;
+}

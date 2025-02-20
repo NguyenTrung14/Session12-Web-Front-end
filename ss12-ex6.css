@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+main{
+    text-align: center;
+}
+h1{
+    padding: 30px;
+}
+.all{
+    display: flex;
+    justify-content: space-around;
+}
+.text1,.text2,.text3{
+    width: 32%;
+    border: 1px solid black;
+    height: 150px;
+    padding: 10px;
+}
+.text1:hover,.text2:hover,.text3:hover{
+    background-color: #ffc107;
+}
+.button{
+    width: 90%;
+}

@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    padding: 20px;
+}
+form{
+    margin-left: 20px;
+    line-height: 60px;
+}
+input{
+    height: 50px;
+    width: 90%;
+    border-radius: 5px;
+    border: 1px solid;
+}
+label{
+    font-size: x-large;
+}
+textarea{
+    width: 90%;
+    border-radius: 5px;
+    border: 1px solid;
+}
